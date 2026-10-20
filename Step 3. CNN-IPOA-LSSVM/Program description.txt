@@ -1,0 +1,1 @@
+Run CNN_IPOA_LSSVM.m to obtain the diagnostic results. Do not run any other files!
