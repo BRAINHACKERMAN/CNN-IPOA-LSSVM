@@ -1,0 +1,1 @@
+Place data.mat in this folder and run data_summary.m. Obtain the data_total.mat file and copy and paste it into the step2 folder.
