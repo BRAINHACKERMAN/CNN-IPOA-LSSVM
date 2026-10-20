@@ -1,0 +1,6 @@
+Program instructions for this folder: 
+
+Run Step1.m and Step2_JPG_Resize.m. Do not run any other files! 
+Step 1. m is responsible for synchronously extracting the wavelet transform from the first step's combined data_total. mat data. The extracted images are placed in the "Synchronized Wavelet Transform Images" folder. 
+Step2_JPG_Resize.m is responsible for compressing the image. The compression is done to save time for the subsequent model training.
+Finally, a file named resizeimg.mat is obtained. This data file is then copied to the third step for model training and classification.
